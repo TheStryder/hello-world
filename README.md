@@ -1,4 +1,4 @@
 # hello-world
 <html>
-  <h1><body> This is my first try at github!</body></h1>
+  <h3><body> This is my first try at github!</body></h3>
 </html>
